@@ -5,4 +5,4 @@ Written in Python 3.6.
 # Why release this?
 I don't need the generator anymore so might as well release the code.
 # WARNING:
-There is no exception handling and this is not the full code from this generator just the query generator
+There is no exception handling as this is just a example i removed my handling for request exceptions and overall code exceptions and this is not the full code from my OpenSea monitor PM me if you want access to that code this is just the query generator
