@@ -9,7 +9,7 @@ def generate_query(collection_name):
 
 
 timeout_delay = 2
-endpoint_headers = {'X-API-KEY': '2f6f419a083c46de9d83ce3dbe7db601'}
+endpoint_headers = {'X-API-KEY': '2f6f419a083c46de9d83ce3dbe7db601'} # API key is not mine
 collection_query = generate_query(generator_arguments.collection_name)
 endpoint_request = requests.get('https://api.opensea.io/graphql/', headers=endpoint_headers, timeout=timeout_delay, json=collection_query)
 print(endpoint_request.text)
