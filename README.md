@@ -1,3 +1,5 @@
+# ATTENTION: THIS NO LONGER WORKS I AM LEAVING IT UP AS A EXAMPLE OF GRAPHQL REQUESTS!!!!1
+# NOTE: QUERY GENERATION STILL WORKS HOWEVER THE GRAPHQL ENDPOINT IS LOCKED DOWN
 # OpenSeaQueryGenerator
 Generates a query for a collection of your choice.
 # Programming language?
